@@ -1,0 +1,113 @@
+/* (洪萌体 - 标准用) */
+@font-face {
+  font-family: 'SiteCustomFont';  /* <-- 這是您要在後台填寫的新名稱 */
+  src: url('HOSSR.woff'); /* <-- 這是您剛上傳的檔名 */
+  font-weight: normal; /* Regular 一般是 normal 或 400 */
+  font-display: swap;
+}
+
+/* (可可体常规 - 不适用全局、标题、内容。可用板块名称)不支持繁体 */
+@font-face {
+  font-family: 'BWCKKR';
+  src: url('BWCKKR.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房景悦体 - 不适用全局、标题、内容。可用板块名称)支持繁体) */
+@font-face {
+  font-family: 'MFJYT';
+  src: url('MFJingYue.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房尚黑常规体 - 不适用全局、标题、内容。可用板块名称)不支持繁体) */
+@font-face {
+  font-family: 'MFSHT';
+  src: url('MFShangHei.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房悦黑体 - 不适用全局、标题。可用板块名称、内容)不支持繁体) */
+@font-face {
+  font-family: 'MFYHT';
+  src: url('MFYueHei.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房悦圆常规体 - 不适用全局、标题。可用板块名称、内容)不支持繁体) */
+@font-face {
+  font-family: 'MFYueYT';
+  src: url('MFYueYuan.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (Aa苹苹果果像素体 - 不确定)不支持繁体 */
+@font-face {
+  font-family: 'AaPeiPei';
+  src: url('APPGGXST.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房羽逸常规体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'MFYYT';
+  src: url('MFYuYi.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房元黑常规体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'MFYuanHT';
+  src: url('MFYuanHei.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房甜栗常规体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'MFTLT';
+  src: url('MFTianLi.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房凌黑体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'MFLHT';
+  src: url('MFLingHei.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房云逸体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'MFYunYT';
+  src: url('MFYunYi.woff2');
+  font-weight: normal;
+  font-display: swap;
+  
+}
+
+----------------------------------------------------------------------------------------------------
+/* (字魂海昌海洋体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'ZHHYT';
+  src: url('ZHHYT.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (胡晓波机甲体 - 用户组)不支持繁体) */
+@font-face {
+  font-family: 'HXJJT';
+  src: url('HBJJT.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
