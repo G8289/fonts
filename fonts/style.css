@@ -111,10 +111,26 @@
   font-display: swap;
 }
 
-/* (电影字幕体 - 用户组)不支持繁体) */
+/* (电影字幕体 - 未知)不支持简体) */
 @font-face {
   font-family: 'DYZMT';
   src: url('DYZMT.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (造字工房锦竹体 - 未知)不支持繁体) */
+@font-face {
+  font-family: 'MFJZT';
+  src: url('MFJinZhu.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (本墨字造若圆 - 未知)不支持繁体) */
+@font-face {
+  font-family: 'BMRYT';
+  src: url('BMRuoYuan.woff2');
   font-weight: normal;
   font-display: swap;
 }
