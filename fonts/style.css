@@ -119,18 +119,58 @@
   font-display: swap;
 }
 
-/* (造字工房锦竹体 - 未知)不支持繁体) */
+/* (造字工房锦竹体 - T)不支持繁体) */
 @font-face {
-  font-family: 'MFJZT';
-  src: url('MFJinZhu.woff2');
+  font-family: 'MFJZT-T';
+  src: url('MFJinZhu-T.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (本墨字造若圆 - 未知)不支持繁体) */
+/* (造字工房锦竹体 - N)不支持繁体) */
 @font-face {
-  font-family: 'BMRYT';
-  src: url('BMRuoYuan.woff2');
+  font-family: 'MFJZT-n';
+  src: url('MFJinZhu-n.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (本墨字造若圆 - P)不支持繁体) */
+@font-face {
+  font-family: 'BMRYT-P';
+  src: url('BMRuoYuan-P.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (本墨字造若圆 - T)不支持繁体) */
+@font-face {
+  font-family: 'BMRYT-T';
+  src: url('BMRuoYuan-T.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (本墨字造若圆 - N)不支持繁体) */
+@font-face {
+  font-family: 'BMRYT-n';
+  src: url('BMRuoYuan-n.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (上首团圆体 - T)不支持繁体) */
+@font-face {
+  font-family: 'SSTYT-T';
+  src: url('SSTuanYuanTi-T.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (上首团圆体 - N)不支持繁体) */
+@font-face {
+  font-family: 'SSTYT-n';
+  src: url('SSTuanYuanTi-n.woff2');
   font-weight: normal;
   font-display: swap;
 }
