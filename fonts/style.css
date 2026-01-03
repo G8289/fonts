@@ -121,7 +121,7 @@
 
 /* (造字工房锦竹体 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'MFJZT-N';
+  font-family: 'MFJZT';
   src: url('MFJinZhu.woff2');
   font-weight: normal;
   font-display: swap;
@@ -129,7 +129,7 @@
 
 /* (本墨字造若圆 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'BMRYT-T';
+  font-family: 'BMRYT';
   src: url('BMRuoYuan.woff2');
   font-weight: normal;
   font-display: swap;
@@ -137,7 +137,7 @@
 
 /* (上首团圆体 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'SSTYT-T';
+  font-family: 'SSTYT';
   src: url('SSTuanYuanTi.woff2');
   font-weight: normal;
   font-display: swap;
