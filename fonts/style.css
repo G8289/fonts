@@ -121,7 +121,7 @@
 
 /* (造字工房锦竹体 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'MFJZT';
+  font-family: 'MFJZT-N';
   src: url('MFJinZhu.woff2');
   font-weight: normal;
   font-display: swap;
@@ -129,7 +129,7 @@
 
 /* (本墨字造若圆 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'BMRYT';
+  font-family: 'BMRYT-T';
   src: url('BMRuoYuan.woff2');
   font-weight: normal;
   font-display: swap;
@@ -137,80 +137,33 @@
 
 /* (上首团圆体 - 未知)不支持繁体) */
 @font-face {
-  font-family: 'SSTYT';
+  font-family: 'SSTYT-T';
   src: url('SSTuanYuanTi.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (和田研细丸 - N)支持繁体) */
+/* (和田研细丸 - 未知)支持繁体) */
 @font-face {
-  font-family: 'HTYXT-n';
+  font-family: 'HTYXT';
   src: url('HeTianYanWan-n.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (字魂鱼太闲咸鱼体 - N)支持繁体) */
+/* (字魂鱼太闲咸鱼体 - 未知)支持繁体) */
 @font-face {
-  font-family: 'ZHXYT-n';
-  src: url('ZHXianYu-n.woff2');
+  font-family: 'ZHXYT';
+  src: url('ZHXianYu.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (字魂正酷超级黑常规体 - N)支持繁体) */
+/* (字魂正酷超级黑常规体 - 未知)支持繁体) */
 @font-face {
-  font-family: 'ZHZKCJH-n';
-  src: url('ZHZhengKuChaoJiHei-R-n.woff2');
+  font-family: 'ZHZKCJH';
+  src: url('ZHZhengKuChaoJiHei-R.woff2');
   font-weight: normal;
   font-display: swap;
 }
 
-/* (和田研细丸 - T)支持繁体) */
-@font-face {
-  font-family: 'HTYXT-T';
-  src: url('HeTianYanWan-T.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (字魂鱼太闲咸鱼体 - T)支持繁体) */
-@font-face {
-  font-family: 'ZHXYT-T';
-  src: url('ZHXianYu-T.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (字魂正酷超级黑常规体 - T)支持繁体) */
-@font-face {
-  font-family: 'ZHZKCJH-T';
-  src: url('ZHZhengKuChaoJiHei-R-T.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (和田研细丸 - P)支持繁体) */
-@font-face {
-  font-family: 'HTYXT-P';
-  src: url('HeTianYanWan-P.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (字魂鱼太闲咸鱼体 - P)支持繁体) */
-@font-face {
-  font-family: 'ZHXYT-P';
-  src: url('ZHXianYu-P.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
-
-/* (字魂正酷超级黑常规体 - P)支持繁体) */
-@font-face {
-  font-family: 'ZHZKCJH-P';
-  src: url('ZHZhengKuChaoJiHei-R-P.woff2');
-  font-weight: normal;
-  font-display: swap;
-}
