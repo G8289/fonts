@@ -166,6 +166,7 @@
   font-weight: normal;
   font-display: swap;
 }
+
 /* (Aa情绪猫粗萌体60 - 未知)支持繁体) */
 @font-face {
   font-family: 'AaQXMT';
@@ -173,3 +174,12 @@
   font-weight: normal;
   font-display: swap;
 }
+
+/* (Aa奶fufu可爱圆 - 未知)支持繁体) */
+@font-face {
+  font-family: 'AaNFKAT';
+  src: url('AaNFFKeAiY.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
