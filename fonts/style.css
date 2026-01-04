@@ -159,17 +159,17 @@
   font-display: swap;
 }
 
-/* (Aa小猫信箱可爱体 - P)支持繁体) */
+/* (Aa小猫信箱可爱体 - 未知)支持繁体) */
 @font-face {
-  font-family: 'AaXXKAT-P';
-  src: url('AaXiaoMaoXinX-P.woff2');
+  font-family: 'AaXXKAT';
+  src: url('AaXiaoMaoXinX.woff2');
   font-weight: normal;
   font-display: swap;
 }
-/* (Aa小猫信箱可爱体 - N)支持繁体) */
+/* (Aa情绪猫粗萌体60 - 未知)支持繁体) */
 @font-face {
-  font-family: 'AaXXKAT-N';
-  src: url('AaXiaoMaoXinX-N.woff2');
+  font-family: 'AaQXMT';
+  src: url('AaQingXuMaoCuT.woff2');
   font-weight: normal;
   font-display: swap;
 }
