@@ -175,7 +175,7 @@
   font-display: swap;
 }
 
-/* (Aa情绪猫粗萌体60 - 未知)支持繁体) */
+/* (Aa情绪猫粗萌体60 - 可用在小字提醒)支持繁体) */
 @font-face {
   font-family: 'AaQXMT';
   src: url('AaQingXuMaoCu.woff2');
@@ -185,8 +185,8 @@
 
 /* (情绪猫粗萌体 - 未知)支持繁体) */
 @font-face {
-  font-family: 'QXCMT';
-  src: url('QingXuMaoCuMT.woff2');
+  font-family: 'QXCMT-B';
+  src: url('QingXuMaoCuMT-B.woff2');
   font-weight: normal;
   font-display: swap;
 }
