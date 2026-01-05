@@ -159,6 +159,14 @@
   font-display: swap;
 }
 
+/* (字魂正酷超级黑常规体 - 未知)支持繁体) */
+@font-face {
+  font-family: 'ZHZKCJH';
+  src: url('ZHZhengKuChaoJiHei-R.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
 /* (Aa小猫信箱可爱体 - 未知)支持繁体) */
 @font-face {
   font-family: 'AaXMXXKAT';
@@ -171,6 +179,14 @@
 @font-face {
   font-family: 'AaQXMT';
   src: url('AaQingXuMaoCu.woff2');
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* (情绪猫粗萌体 - 未知)支持繁体) */
+@font-face {
+  font-family: 'QXCMT';
+  src: url('QingXuMaoCuMT.ttf');
   font-weight: normal;
   font-display: swap;
 }
