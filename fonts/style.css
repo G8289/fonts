@@ -186,7 +186,7 @@
 /* (情绪猫粗萌体 - 未知)支持繁体) */
 @font-face {
   font-family: 'QXCMT';
-  src: url('QingXuMaoCuMT.ttf');
+  src: url('QingXuMaoCuMT.woff2');
   font-weight: normal;
   font-display: swap;
 }
